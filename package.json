@@ -1,0 +1,21 @@
+{
+  "name": "node-passport",
+  "version": "1.0.0",
+  "description": "Node/express app using passport for authentication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nena Nerdetta",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.0",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
